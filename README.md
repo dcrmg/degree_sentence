@@ -1,5 +1,5 @@
 
-Installation
+function
 
 degree of sentence deflection
 
